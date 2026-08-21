@@ -1,0 +1,1 @@
+.kpis{grid-template-columns:repeat(5,minmax(0,1fr))}@media(max-width:1180px){.kpis{grid-template-columns:repeat(3,1fr)}}@media(max-width:760px){.kpis{grid-template-columns:repeat(2,1fr)}}@media(max-width:480px){.kpis{grid-template-columns:1fr}}
